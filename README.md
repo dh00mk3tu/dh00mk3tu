@@ -35,15 +35,15 @@
   2. Web Development with JS, & UI/UX Solutions.
   
 # - How To Reach Me?
-  1. Mail: cyberhybird@hotmail.com
+  - Mail: cyberhybird@hotmail.com
            dotdh00mk3tu@gmail.com
-     Website: <anirudhrath.tech>
-     Instagram: <https://www.instagram.com/dh00mk3tu/>
-     Facebook: <https://www.facebook.com/dh00mk3tu/>
-     LinkedIn: <https://www.linkedin.com/in/dh00mk3tu/>
-     Twitter: <https://twitter.com/dh00mk3tu>
-     Pinterest: <https://in.pinterest.com/dh00mk3tu>
-     Quora: <https://www.quora.com/profile/Anirudh-Rath>
+  -  Website: <anirudhrath.tech>
+  -  Instagram: <https://www.instagram.com/dh00mk3tu/>
+  -  Facebook: <https://www.facebook.com/dh00mk3tu/>
+  -  LinkedIn: <https://www.linkedin.com/in/dh00mk3tu/>
+  -  Twitter: <https://twitter.com/dh00mk3tu>
+  -  Pinterest: <https://in.pinterest.com/dh00mk3tu>
+  -  Quora: <https://www.quora.com/profile/Anirudh-Rath>
      
 # - Fun Fact
    _I love milk and cakes_
