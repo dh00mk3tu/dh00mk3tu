@@ -37,7 +37,8 @@
 # - How To Reach Me?
   - Mail: cyberhybird@hotmail.com
            dotdh00mk3tu@gmail.com
-  -  Website: <anirudhrath.tech>
+  -  Website: anirudhrath.tech
+  <img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Finstagram-logo_87390&psig=AOvVaw1pdXTDWd_7r5y3CcGyoQVz&ust=1595257233809000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjDhtqA2eoCFQAAAAAdAAAAABAP">
   -  Instagram: <https://www.instagram.com/dh00mk3tu/>
   -  Facebook: <https://www.facebook.com/dh00mk3tu/>
   -  LinkedIn: <https://www.linkedin.com/in/dh00mk3tu/>
@@ -47,17 +48,4 @@
      
 # - Fun Fact
    _I love milk and cakes_
-<!--
-**dh00mk3tu/dh00mk3tu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
