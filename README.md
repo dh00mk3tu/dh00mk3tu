@@ -1,7 +1,7 @@
-#### Anirudh Rath | dh00mk3tu 
+# Anirudh Rath | dh00mk3tu 
 ###  Stay Home, Stay Safe.
 
-##   I am a CSE Enginner, currently in my final year. I love C/C++ and developing desktop based applications. 
+###   I am a CSE Enginner, currently in my final year. I love C/C++ and developing desktop based applications. 
 ##   Desktop Specs: 
      MB: B450 Gmaing Plus M.2
      CPU: R5 2600X 
@@ -16,25 +16,25 @@
      Cabinet: Antec DF500 
      Music System: F&D F210X
      
-# - Currently Working On 
+## - Currently Working On 
   1. Angular Project with a Start Up
   2. Paint Application in C++
   3. Custom JS UI Librabry 
   4. Custom Encryption Algo 
   
-# - Currently Learning 
+## - Currently Learning 
   1. React 
   2. Angular 
   3. Cryptography Algorithms 
   
-# - Looking For Help With 
+## - Looking For Help With 
   1. Angular (please)
   
-# - Ask Me About 
+## - Ask Me About 
   1. C/C++
   2. Web Development with JS, & UI/UX Solutions.
   
-# - How To Reach Me?
+## - How To Reach Me?
   - Mail: cyberhybird@hotmail.com
            dotdh00mk3tu@gmail.com
   -  Website: anirudhrath.tech
@@ -45,6 +45,6 @@
   -  Pinterest: <https://in.pinterest.com/dh00mk3tu>
   -  Quora: <https://www.quora.com/profile/Anirudh-Rath>
      
-# - Fun Fact
+## - Fun Fact
    _I love milk and cakes_
 
