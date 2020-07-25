@@ -5,10 +5,10 @@
 ###   I am a CSE Enginner, currently in my final year. I love C/C++ and developing desktop based applications. 
 
 ## - Stats
-![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)
+![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
 
 ## - Top Languages
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)
      
 ## - Currently Working On 
   1. Angular Project with a Start Up
