@@ -8,7 +8,7 @@
 ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ## - Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)https://github.com/dh00mk3tu
      
 ## - Currently Working On 
   1. Angular Project with a Start Up
