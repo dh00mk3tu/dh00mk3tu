@@ -49,3 +49,5 @@
 ## - Fun Fact
    _I love milk and cakes_
 
+## -Stats
+![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true)
