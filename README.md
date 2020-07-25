@@ -26,6 +26,7 @@
   1. React 
   2. Angular 
   3. Cryptography Algorithms 
+  4. Windows Alteration Applications on C/C++, C# and VB; trying new things and venturing in to new, amazing things
   
 ## - Looking For Help With 
   1. Angular (please)
