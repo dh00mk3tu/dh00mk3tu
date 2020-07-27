@@ -41,7 +41,7 @@
               250 GB M.2 SSD WD Green
      PSU: Corsair VS550
      Cabinet: Antec DF500 
-     Music System: F&D F210X
+     Multimedia System: F&D F210X
      
 ##  How To Reach Me?
   - Mail: cyberhybird@hotmail.com
