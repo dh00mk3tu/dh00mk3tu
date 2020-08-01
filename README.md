@@ -33,7 +33,7 @@
      MB: B450 Gmaing Plus M.2
      CPU: R5 2600X 
      RAM: Corsair Vengeance 8GB @ 3000 Mhz * 2
-     GPU: GTX 1660 8GB
+     GPU: GTX 1660 6GB
      Storage: 1TB WD Blue
               750 GB WD Blue 
               500 GB WD Blue
