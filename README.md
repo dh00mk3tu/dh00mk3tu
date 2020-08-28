@@ -56,5 +56,6 @@
   
      
 ##  Fun Fact
-   _I love milk and cakes_<img src=https://komarev.com/ghpvc/?username=dh00mk3tu alt=dh00mk3tu/>
+   _I love milk and cakes
+   ![](https://komarev.com/ghpvc/?dh00mk3tu&color=green)
 
