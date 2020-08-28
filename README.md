@@ -1,4 +1,7 @@
 # Anirudh Rath | dh00mk3tu 
+<a href="https:anirudhrath.tech">
+    <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green">
+</a>
 ###  Stay Home, Stay Safe.
 
 
@@ -57,8 +60,6 @@
      
 ##  Fun Fact
    I love milk and cakes
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=dh00mk3tu">
-</a>
+
 
 
