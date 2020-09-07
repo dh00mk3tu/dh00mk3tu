@@ -35,19 +35,7 @@
   1. C/C++
   2. Web Development with JS, & UI/UX Solutions.
   
-##  Desktop Specs: 
-     MB: B450 Gmaing Plus M.2
-     CPU: R5 2600X 
-     RAM: Corsair Vengeance 8GB @ 3000 Mhz * 2
-     GPU: GTX 1660 6GB
-     Storage: 1TB WD Blue
-              750 GB WD Blue 
-              500 GB WD Blue
-              250 GB SATA SSD Kingston 
-              250 GB M.2 SSD WD Green
-     PSU: Corsair VS550
-     Cabinet: Antec DF500 
-     Multimedia System: F&D F210X
+
      
 ##  How To Reach Me?
   - Mail: cyberhybird@hotmail.com
