@@ -40,7 +40,7 @@
 ##  How To Reach Me?
   - Mail: cyberhybird@hotmail.com
            dotdh00mk3tu@gmail.com
-  -  Website: anirudhrath.tech
+  -  Website: <https://www.anirudhrath.tech>
   -  Instagram: <https://www.instagram.com/dh00mk3tu/>
   -  Facebook: <https://www.facebook.com/dh00mk3tu/>
   -  LinkedIn: <https://www.linkedin.com/in/dh00mk3tu/>
