@@ -8,7 +8,8 @@
 ###  Stay Home, Stay Safe.
 
 
-###   I am a CSE Enginner, currently in my final year. I love C/C++ and developing desktop based applications. 
+###   I am a CSE Enginner, currently in my final year. I love C/C++, JavaScript & Shell. 
+###   I make desktop based applications and scripts for fun! 
 
 ##  Stats
 ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
