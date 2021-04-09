@@ -18,23 +18,21 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)
      
 ##  Currently Working On 
-  1. Angular Project with a Start Up
-  2. Paint Application in C++
-  3. Custom JS UI Librabry 
-  4. Custom Encryption Algo 
-  5. Windows Alteration Applications on C/C++, C# and VB; trying new things and venturing in to new, amazing things
+  1. On my own x86_64 Kernel 
+  2. Custom Physics Engine in JS
+  3. Ceative Coding and Simulations with SFML/C++  
   
 ##  Currently Learning 
-  1. React 
-  2. Angular 
-  3. Cryptography Algorithms 
+  1. iOS Dev with Swift 
+  2. React
   
 ##  Looking For Help With 
-  1. Angular (please)
+  1. Swift Development lmaooo
   
 ##  Ask Me About 
   1. C/C++
   2. Web Development with JS, & UI/UX Solutions.
+  3. Bash & Shell 
   
 
      
