@@ -4,9 +4,10 @@
     <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green">
 </a>
 
+## _"Aggression is the best form of defence"_   
+
 ### I'm all about C/C++, JavaScript and the Shell.
 
-#### _"Aggression is the best form of defence"_   
 
 ##  Stats
 ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
@@ -22,9 +23,10 @@
 ##  Currently Learning 
   1. iOS Dev with Swift 
   2. React
+  3. Flutter
   
 ##  Looking For Help With 
-  1. Swift Development lmaooo
+  1. Flutter Development lmaooo
   
 ##  Ask Me About 
   1. C/C++
@@ -46,7 +48,7 @@
   
      
 ##  Fun Fact
-   I love milk and cakes
+   I love milk and my cake
 
 
 
