@@ -1,8 +1,6 @@
 # Anirudh Rath | dh00mk3tu <a href="https:anirudhrath.tech"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a>
 
----
 ## _"Aggression is the best form of defence"_   
----
 
 ### I'm all about C/C++, Simulations and Shell.
 
