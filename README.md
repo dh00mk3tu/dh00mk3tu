@@ -3,10 +3,10 @@
 <a href="https:anirudhrath.tech">
     <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green">
 </a>
-
+---
 ## _"Aggression is the best form of defence"_   
-
-### I'm all about C/C++, JavaScript and the Shell.
+---
+### I'm all about C/C++, Simulations and Shell.
 
 
 ##  Stats
@@ -21,7 +21,7 @@
   3. Ceative Coding and Simulations with SFML/C++  
   
 ##  Currently Learning 
-  1. iOS Dev with Swift 
+  1. Assembly & Computer Arch. 
   2. React
   3. Flutter
   
