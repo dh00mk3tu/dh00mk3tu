@@ -2,7 +2,7 @@
 
 ## _"Aggression is the best form of defence"_   
 
-### I'm all about C/C++, Simulations and Shell (and JavaScript :V).
+### I'm all about C/C++, Shell, JavaScript and Flutter.
 
 
 ##  Stats
