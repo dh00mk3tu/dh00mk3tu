@@ -1,9 +1,6 @@
 # Anirudh Rath | dh00mk3tu <a href="https:anirudhrath.tech"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a>
 _"Aggression is the best form of defence"_   
 
-## I'm all about C/C++, Shell, JavaScript and Flutter.
-
-
 ##  Stats
 ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
 
@@ -13,9 +10,10 @@ _"Aggression is the best form of defence"_
 ##  Currently Working On 
   1. On my own x86_64 Kernel 
   2. Custom Physics Engine in JS
-  3. Ceative Coding and Simulations with SFML/C++  
+  3. Ceative Coding and Simulations with SFML/C++
+  4. Flutter and React Operation @ threedots  
   
-##  Currently Learning 
+##  Actively Learning 
   1. Assembly & Computer Arch. 
   2. React
   3. Flutter
@@ -25,7 +23,7 @@ _"Aggression is the best form of defence"_
   
 ##  Ask Me About 
   1. C/C++
-  2. Web Development with JS, & UI/UX Solutions.
+  2. Web Development with JS, React & UI/UX Solutions.
   3. Bash & Shell 
   
 
