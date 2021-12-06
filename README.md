@@ -3,24 +3,9 @@
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
 
 <span>
-     <div align=left>
-          <h2 align=center>
-               <p>Stats<p>
-               <div>
-                ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical)
-               </div>
-          </h2>
-     </div>
-     <div align=right>
-          <h2 align=center>
-          <p>Top Languages</p>
-          <div>
-            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)
-          </div>               
-          </h2>
-     </div>
+  <div>One</div>
+  <div>Two</div>
 </span>
-
 ##  Stats
 ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
 
