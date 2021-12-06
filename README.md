@@ -1,11 +1,20 @@
 <h1 align=center>Anirudh Rath | dh00mk3tu</h1>
-<h6 align=center>_"Aggression is the best form of defence"_</h1>
+<h6 align=center><i>"Aggression is the best form of defence"</i></h1>
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
 
 <div>
-     <h2 align=left>
-          Stats
-     </h2>
+     <div align=left>
+          <h2 align=center>
+               Stats
+               ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical)
+          </h2>
+     </div>
+     <div align=right>
+          <h2 align=center>
+          Top Languages
+          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)               
+          </h2>
+     </div>
 </div>
 
 ##  Stats
