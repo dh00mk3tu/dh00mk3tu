@@ -2,10 +2,10 @@
 <h6 align=center><i>"Aggression is the best form of defence"</i></h1>
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
 
-<span>
-  <div>One</div>
-  <div>Two</div>
+<row>
+  <div>One</div> <div>Two</div> 
 </span>
+
 ##  Stats
 ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
 
