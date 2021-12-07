@@ -3,10 +3,16 @@
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
 
 <div>
+  <div align=left>
+  
+    ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
+  
+  </div>
+  <div align=right>
 
-  ![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)
+  </div>
 
 </div>
 
