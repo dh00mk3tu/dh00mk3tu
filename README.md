@@ -4,10 +4,12 @@
 
 <div>
 
-  <img height="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical" />  
-  <img height="250px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical" />  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu" />
 
 </div>
+
+___
 
 ##  Currently Working On 
   1. On my own x86_64 Kernel 
