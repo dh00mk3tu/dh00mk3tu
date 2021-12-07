@@ -2,13 +2,6 @@
 <h6 align=center><i>"Aggression is the best form of defence"</i></h1>
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
 
-<div>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical" />  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu" />
-
-</div>
-
 ___
 
 ##  Currently Working On 
@@ -47,5 +40,11 @@ ___
 ##  Fun Fact
    I love milk and my cake
 
+<div>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical" />  
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu" />
+
+</div>
 
 
