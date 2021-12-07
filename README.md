@@ -42,10 +42,7 @@ ___
 
 ___
 <h1 align=center>
-  ```
-    Stats For Nerds
-  ```
-  
+  Stats For Nerds
 </h1>
 <div>
 
