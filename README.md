@@ -40,6 +40,8 @@ ___
 ##  Fun Fact
    I love milk and my cake
 
+___
+<h1 align=center>```Stats for nerds```</h1>
 <div>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical" />  
