@@ -42,8 +42,8 @@ ___
 
 ___
 <h1 align=center>
-  ```bash
-  Stats For Nerds
+  ```
+    Stats For Nerds
   ```
   
 </h1>
