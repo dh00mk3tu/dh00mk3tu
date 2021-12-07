@@ -9,12 +9,6 @@
 
 </div>
 
-##  Stats
-![Anirudh's Github Profile](https://github-readme-stats.vercel.app/api?username=dh00mk3tu&show_icons=true&hide_border=true&count_private=true&theme=radical) 
-
-##  Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh00mk3tu)
-     
 ##  Currently Working On 
   1. On my own x86_64 Kernel 
   2. Custom Physics Engine in JS
