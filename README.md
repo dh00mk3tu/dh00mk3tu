@@ -40,7 +40,6 @@ ___
 ##  Fun Fact
    I love milk and my cake
 
-___
 <h1 align=center>
   Stats For Nerds
 </h1>
