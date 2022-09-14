@@ -3,6 +3,9 @@
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
 
 ___
+# Note: My portfolio, www.anirudhrath.dev will not open. #Revamp coming?
+___
+
 
 ##  Currently Working On 
   1. Flutter and React Operation @threedots
