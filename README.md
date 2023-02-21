@@ -4,7 +4,7 @@
 
 
 ##  Currently Working On 
-  1. Flutter and React Operation @threedots
+  1. Flutter and React
   2. Myself
   
 ##  Actively Learning 
