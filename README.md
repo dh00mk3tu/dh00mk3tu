@@ -1,7 +1,7 @@
 <h1 align=center>Anirudh Rath | dh00mk3tu</h1>
 <h6 align=center><i>"Aggression is the best form of defence"</i></h1>
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
----
+___
 <p>
 Hi, I'm Anirudh, or dh00mk3tu if you may!
 I love computer science, compositions and fictional literature. 
@@ -14,7 +14,9 @@ I'm currently working as a Sr. Software Engineer.
 As the TL, I am leading a team of engineers to write excellent software fighting against the undefined allegations of JavaScript.
 GCP, NUXT and i18n SME 
 </p>
----
+
+___
+
 
 
 ##  Currently Working On 
