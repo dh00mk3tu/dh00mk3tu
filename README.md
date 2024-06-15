@@ -2,14 +2,18 @@
 <h6 align=center><i>"Aggression is the best form of defence"</i></h1>
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
 ---
+<p>
 Hi, I'm Anirudh, or dh00mk3tu if you may!
 I love computer science, compositions and fictional literature. 
 My interests compel me to draw sometimes and I can code a little bit, desing a bit too both UI and software. 
 I enjoy making things that operate at scale and create impact. 
+</p>
 
-I currently working as a Sr. Software Engineer. 
+<p>
+I'm currently working as a Sr. Software Engineer. 
 As the TL, I am leading a team of engineers to write excellent software fighting against the undefined allegations of JavaScript.
 GCP, NUXT and i18n SME 
+</p>
 ---
 
 
