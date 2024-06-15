@@ -1,23 +1,33 @@
 <h1 align=center>Anirudh Rath | dh00mk3tu</h1>
 <h6 align=center><i>"Aggression is the best form of defence"</i></h1>
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
+---
+Hi, I'm Anirudh, or dh00mk3tu if you may!
+I love computer science, compositions and fictional literature. 
+My interests compel me to draw sometimes and I can code a little bit, desing a bit too both UI and software. 
+I enjoy making things that operate at scale and create impact. 
+
+I currently working as a Sr. Software Engineer. 
+As the TL, I am leading a team of engineers to write excellent software fighting against the undefined allegations of JavaScript.
+GCP, NUXT and i18n SME 
+---
 
 
 ##  Currently Working On 
-  1. Flutter and React
+  1. React, Flutter and NUXT 
   2. Myself
   
 ##  Actively Learning 
-  1. Assembly & Computer Arch. 
-  2. React
-  3. Flutter
+  1. Computer Arch. 
+  2. NUXT
+  3. System Design
   
 ##  Looking For Help With 
-  1. Flutter Development lmaooo
+  1. I want chicken wings
   
 ##  Ask Me About 
   1. C/C++
-  2. Web Development with JS, React & UI/UX Solutions.
+  2. Web Development with JS, React, NUXT & UI/UX Solutions.
   3. Bash & Shell 
   
 
