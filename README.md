@@ -1,13 +1,19 @@
-<h1 align=center>Anirudh Rath | dh00mk3tu</h1>
+![QubyChanCryingGIF](https://github.com/dh00mk3tu/dh00mk3tu/assets/38985076/dd71efb4-7e90-4cf8-8cb1-0931e67a0aab)<h1 align=center>Anirudh Rath | dh00mk3tu</h1>
 <h6 align=center><i>"Aggression is the best form of defence"</i></h1>
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
-___
 
 <p>
-Hi, I'm Anirudh, or dh00mk3tu if you may!
-I love computer science, compositions and fictional literature. 
-My interests compel me to draw sometimes and I can code a little bit, desing a bit too both UI and software. 
-I enjoy making things that operate at scale and create impact. 
+Verily,
+
+I am Anirudh, known in some circles as dh00mk3tu. My passions encompass the realms of computer science, composition, and fiction. At times, I find solace in sketching. My skills extend to modest proficiency in coding and the artistry of both UI and software design. I find joy in crafting solutions that operate on a grand scale, leaving a significant imprint.
+
+Beyond these pursuits, my aspiration is to embody noble virtues and extend aid to others as providence allows.
+
+With utmost regards,
+
+Anirudh
+
+(this is not written by AI, I spent a lot of time in writing that intro 🥲)
 </p>
 
 <p>
@@ -30,19 +36,16 @@ ___
   3. System Design
   
 ##  Looking For Help With 
-  1. I want chicken wings
+  1. I want chicken wings 🍗
   
 ##  Ask Me About 
   1. C/C++
   2. Web Development with JS, React, NUXT & UI/UX Solutions.
   3. Bash & Shell 
-  
-
      
 ##  How To Reach Me?
-  - Don't
+  - Find me on Discord @dh00mk3tu
   
-     
 ##  Fun Fact
    I love milk and my cake
 
