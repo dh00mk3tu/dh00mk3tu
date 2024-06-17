@@ -1,4 +1,4 @@
-![QubyChanCryingGIF](https://github.com/dh00mk3tu/dh00mk3tu/assets/38985076/dd71efb4-7e90-4cf8-8cb1-0931e67a0aab)<h1 align=center>Anirudh Rath | dh00mk3tu</h1>
+<h1 align=center>Anirudh Rath | dh00mk3tu</h1>
 <h6 align=center><i>"Aggression is the best form of defence"</i></h1>
 <h3 align=center><a href="https://anirudhrath.dev"> <img src="https://komarev.com/ghpvc/?username=dh00mk3tu&color=green"></a></h1>
 
