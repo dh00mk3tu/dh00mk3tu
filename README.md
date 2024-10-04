@@ -5,15 +5,7 @@
 <p>
 Verily,
 
-I am Anirudh, known in some circles as dh00mk3tu. My passions encompass the realms of computer science, composition, and fiction. At times, I find solace in sketching. My skills extend to modest proficiency in coding and the artistry of both UI and software design. I find joy in crafting solutions that operate on a grand scale, leaving a significant imprint.
-
-Beyond these pursuits, my aspiration is to embody noble virtues and extend aid to others as providence allows.
-
-With utmost regards,
-
-Anirudh
-
-(this is not written by AI, I spent a lot of time in writing that intro 🥲)
+I am Anirudh and I love computer scinece
 </p>
 
 <p>
