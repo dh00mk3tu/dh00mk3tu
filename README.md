@@ -23,10 +23,16 @@ ___
   2. Myself
   
 ##  Actively Learning 
-  1. Computer Arch. 
+  1. Go 
   2. NUXT
-  3. System Design
-  
+  3. Start-up Incubation 
+
+##  Want To Learn  
+  1. Functional Programming 
+  2. Design Pattern 
+  3. System Design in depth
+  4. Go 
+
 ##  Looking For Help With 
   1. I want chicken wings 🍗
   
