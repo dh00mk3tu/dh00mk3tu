@@ -31,7 +31,7 @@ ___
   1. I want chicken wings 🍗
   
 ##  Ask Me About 
-  1. C/C++
+  1. NUXT & Vue.js
   2. Web Development with JS, React, NUXT & UI/UX Solutions.
   3. Bash & Shell 
      
